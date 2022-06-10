@@ -1,0 +1,1641 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  height:3251px;
+  min-width:200px;
+  max-width:1280px;
+  margin:auto;
+  background-color:#ffffff;
+  overflow:hidden;
+}
+.Frame-outer{
+  pointer-events:none;
+  z-index:2;
+}
+.Rectangle-1{
+  position:relative;
+  z-index:65;
+  pointer-events:none;
+  margin-left:85px;
+  width:1110px;
+  min-width:1110px;
+  height:70px;
+  margin-top:0px;
+  margin-bottom:3181px;
+  min-height:70px;
+  background-color:rgba(27, 27, 27, 1);
+}
+.Rectangle-1-outer{
+  pointer-events:none;
+  z-index:65;
+  position:relative;
+  display:flex;
+}
+.Header{
+  position:relative;
+  z-index:52;
+  pointer-events:none;
+  margin-left:0px;
+  width:1280px;
+  min-width:1280px;
+  height:700px;
+  margin-top:-3251px;
+  margin-bottom:2551px;
+  min-height:700px;
+}
+.Header-outer{
+  pointer-events:none;
+  z-index:52;
+  position:relative;
+  display:flex;
+}
+.Rectangle-8{
+  position:relative;
+  z-index:53;
+  pointer-events:none;
+  margin-left:0px;
+  width:1280px;
+  min-width:1280px;
+  height:700px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:700px;
+  background-color:rgba(8, 8, 8, 1);
+}
+.Rectangle-8-outer{
+  pointer-events:none;
+  z-index:53;
+  position:relative;
+  display:flex;
+}
+.Photo-here{
+  position:relative;
+  z-index:64;
+  pointer-events:none;
+  margin-left:646px;
+  width:350px;
+  min-width:350px;
+  height:350px;
+  margin-top:-525px;
+  margin-bottom:175px;
+  min-height:350px;
+  content:url(assets/images/Photo_here.png);
+}
+.Photo-here-outer{
+  pointer-events:none;
+  z-index:64;
+  position:relative;
+  display:flex;
+}
+.Header-text{
+  position:relative;
+  z-index:54;
+  pointer-events:none;
+  margin-left:283px;
+  width:538px;
+  min-width:538px;
+  height:199px;
+  margin-top:-449px;
+  margin-bottom:250px;
+  min-height:199px;
+}
+.Header-text-outer{
+  pointer-events:none;
+  z-index:54;
+  position:relative;
+  display:flex;
+}
+.Heading-and-subheadi{
+  position:relative;
+  z-index:55;
+  pointer-events:none;
+  margin-left:0px;
+  width:492px;
+  min-width:492px;
+  height:106px;
+  margin-top:0px;
+  margin-bottom:93px;
+  min-height:106px;
+}
+.Heading-and-subheadi-outer{
+  pointer-events:none;
+  z-index:55;
+  position:relative;
+  display:flex;
+}
+.Heading{
+  position:relative;
+  z-index:56;
+  pointer-events:none;
+  margin-left:0px;
+  width:426px;
+  min-width:426px;
+  height:72px;
+  margin-top:0px;
+  margin-bottom:34px;
+  min-height:72px;
+}
+.Heading-outer{
+  pointer-events:none;
+  z-index:56;
+  position:relative;
+  display:flex;
+}
+.Your-Name-Here{
+  position:relative;
+  z-index:57;
+  pointer-events:none;
+  margin-left:0px;
+  width:426px;
+  min-width:426px;
+  height:72px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:72px;
+}
+.Your-Name-Here-outer{
+  pointer-events:none;
+  z-index:57;
+  position:relative;
+  display:flex;
+}
+.Maxwell-Xu{
+  position:relative;
+  z-index:58;
+  pointer-events:none;
+  margin-left:0px;
+  width:426px;
+  min-width:426px;
+  margin-top:10px;
+  margin-bottom:10px;
+  min-height:52px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Raleway;
+  font-weight:800;
+  font-size:44px;
+  line-height:51px;
+}
+.Maxwell-Xu-outer{
+  pointer-events:none;
+  z-index:58;
+  position:relative;
+  display:flex;
+}
+.Intro-Text{
+  position:relative;
+  z-index:59;
+  pointer-events:none;
+  margin-left:0px;
+  width:492px;
+  min-width:492px;
+  height:24px;
+  margin-top:-24px;
+  margin-bottom:0px;
+  min-height:24px;
+}
+.Intro-Text-outer{
+  pointer-events:none;
+  z-index:59;
+  position:relative;
+  display:flex;
+}
+.Student-at-Lowell-Hi{
+  position:relative;
+  z-index:60;
+  pointer-events:none;
+  margin-left:0px;
+  width:492px;
+  min-width:492px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:24px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(156, 156, 156, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:400;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:24px;
+}
+.Student-at-Lowell-Hi-outer{
+  pointer-events:none;
+  z-index:60;
+  position:relative;
+  display:flex;
+}
+.Call-to-action{
+  position:relative;
+  z-index:61;
+  pointer-events:none;
+  margin-left:0px;
+  width:239.89px;
+  min-width:239.89px;
+  height:63px;
+  margin-top:-63px;
+  margin-bottom:0px;
+  min-height:63px;
+  background-color:rgba(63, 142, 0, 1);
+  filter:drop-shadow(0px 8px 30px rgba(63, 142, 0, 0.5));
+  border:1px solid rgba(98, 186, 27, 1);
+  box-sizing:border-box;
+  border-radius:4px;
+}
+.Call-to-action-outer{
+  pointer-events:none;
+  z-index:61;
+  position:relative;
+  display:flex;
+}
+.Learn-more{
+  position:relative;
+  z-index:62;
+  pointer-events:none;
+  margin-left:63px;
+  width:96px;
+  min-width:96px;
+  margin-top:20px;
+  margin-bottom:19px;
+  min-height:21px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:700;
+  font-size:16px;
+  line-height:20px;
+}
+.Learn-more-outer{
+  pointer-events:none;
+  z-index:62;
+  position:relative;
+  display:flex;
+}
+.Vector{
+  position:relative;
+  z-index:63;
+  pointer-events:none;
+  margin-left:71.34112879395501%;
+  width:2.486386086369201%;
+  height:15.873015873015873%;
+  margin-top:10.975558275993077%;
+  content:url(assets/images/Vector.png);
+}
+.Vector-outer{
+  pointer-events:none;
+  z-index:63;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Top-Menu{
+  position:relative;
+  z-index:66;
+  pointer-events:none;
+  margin-left:180px;
+  width:631px;
+  min-width:631px;
+  height:18px;
+  margin-top:-3227px;
+  margin-bottom:3209px;
+  min-height:18px;
+}
+.Top-Menu-outer{
+  pointer-events:none;
+  z-index:66;
+  position:relative;
+  display:flex;
+}
+.About-me{
+  position:relative;
+  z-index:75;
+  pointer-events:none;
+  margin-left:537px;
+  width:94px;
+  min-width:94px;
+  height:18px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:18px;
+}
+.About-me-outer{
+  pointer-events:none;
+  z-index:75;
+  position:relative;
+  display:flex;
+}
+.Recent-work{
+  position:relative;
+  z-index:73;
+  pointer-events:none;
+  margin-left:364px;
+  width:103px;
+  min-width:103px;
+  height:18px;
+  margin-top:-18px;
+  margin-bottom:0px;
+  min-height:18px;
+}
+.Recent-work-outer{
+  pointer-events:none;
+  z-index:73;
+  position:relative;
+  display:flex;
+}
+.Get-In-Touch{
+  position:relative;
+  z-index:74;
+  pointer-events:none;
+  margin-left:0px;
+  width:103px;
+  min-width:103px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:18px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  color:rgba(156, 156, 156, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:400;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:18px;
+}
+.Get-In-Touch-outer{
+  pointer-events:none;
+  z-index:74;
+  position:relative;
+  display:flex;
+}
+.Testimonials{
+  position:relative;
+  z-index:71;
+  pointer-events:none;
+  margin-left:217px;
+  width:77px;
+  min-width:77px;
+  height:18px;
+  margin-top:-18px;
+  margin-bottom:0px;
+  min-height:18px;
+}
+.Testimonials-outer{
+  pointer-events:none;
+  z-index:71;
+  position:relative;
+  display:flex;
+}
+.Education{
+  position:relative;
+  z-index:72;
+  pointer-events:none;
+  margin-left:0px;
+  width:77px;
+  min-width:77px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:18px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  color:rgba(156, 156, 156, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:400;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:18px;
+}
+.Education-outer{
+  pointer-events:none;
+  z-index:72;
+  position:relative;
+  display:flex;
+}
+.Case-studies{
+  position:relative;
+  z-index:69;
+  pointer-events:none;
+  margin-left:104px;
+  width:43px;
+  min-width:43px;
+  height:18px;
+  margin-top:-18px;
+  margin-bottom:0px;
+  min-height:18px;
+}
+.Case-studies-outer{
+  pointer-events:none;
+  z-index:69;
+  position:relative;
+  display:flex;
+}
+.About{
+  position:relative;
+  z-index:70;
+  pointer-events:none;
+  margin-left:0px;
+  width:43px;
+  min-width:43px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:18px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  color:rgba(156, 156, 156, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:400;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:18px;
+}
+.About-outer{
+  pointer-events:none;
+  z-index:70;
+  position:relative;
+  display:flex;
+}
+.Home-1{
+  position:relative;
+  z-index:67;
+  pointer-events:none;
+  margin-left:0px;
+  width:34px;
+  min-width:34px;
+  height:18px;
+  margin-top:-18px;
+  margin-bottom:0px;
+  min-height:18px;
+}
+.Home-1-outer{
+  pointer-events:none;
+  z-index:67;
+  position:relative;
+  display:flex;
+}
+.Home-2{
+  position:relative;
+  z-index:68;
+  pointer-events:none;
+  margin-left:0px;
+  width:35px;
+  min-width:34px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:18px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  color:rgba(156, 156, 156, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:400;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:18px;
+}
+.Home-2-outer{
+  pointer-events:none;
+  z-index:68;
+  position:relative;
+  display:flex;
+}
+.Case-studies-1{
+  position:relative;
+  z-index:41;
+  pointer-events:none;
+  margin-left:191px;
+  width:1025px;
+  min-width:1025px;
+  height:773px;
+  margin-top:-2601px;
+  margin-bottom:1828px;
+  min-height:773px;
+}
+.Case-studies-1-outer{
+  pointer-events:none;
+  z-index:41;
+  position:relative;
+  display:flex;
+}
+.Your-Name-Here-1{
+  position:relative;
+  z-index:42;
+  pointer-events:none;
+  margin-left:-32px;
+  width:101px;
+  height:40px;
+  margin-top:0px;
+  margin-bottom:733px;
+  min-height:40px;
+}
+.Your-Name-Here-1-outer{
+  pointer-events:none;
+  z-index:42;
+  justify-content:center;
+  position:relative;
+  display:flex;
+}
+.Work-1{
+  position:relative;
+  z-index:43;
+  pointer-events:none;
+  margin-left:-13px;
+  width:892px;
+  min-width:892px;
+  height:300px;
+  margin-top:-646px;
+  margin-bottom:346px;
+  min-height:300px;
+}
+.Work-1-outer{
+  pointer-events:none;
+  z-index:43;
+  position:relative;
+  display:flex;
+}
+.Mask-group{
+  position:relative;
+  z-index:48;
+  pointer-events:none;
+  margin-left:447px;
+  width:445px;
+  min-width:445px;
+  height:300px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:300px;
+  content:url(assets/images/Mask_group.png);
+}
+.Mask-group-outer{
+  pointer-events:none;
+  z-index:48;
+  position:relative;
+  display:flex;
+}
+.Tag{
+  position:relative;
+  z-index:46;
+  pointer-events:none;
+  margin-left:0px;
+  width:56px;
+  min-width:56px;
+  height:24px;
+  margin-top:-267px;
+  margin-bottom:243px;
+  min-height:24px;
+  background-color:rgba(255, 246, 233, 1);
+  border-radius:60px;
+}
+.Tag-outer{
+  pointer-events:none;
+  z-index:46;
+  position:relative;
+  display:flex;
+}
+.q-{
+  position:relative;
+  z-index:47;
+  pointer-events:none;
+  margin-left:10px;
+  width:36px;
+  min-width:36px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:24px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 162, 23, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:700;
+  font-size:12px;
+  letter-spacing:0.12px;
+  line-height:24px;
+}
+.q--outer{
+  pointer-events:none;
+  z-index:47;
+  position:relative;
+  display:flex;
+}
+.Work-name-here{
+  position:relative;
+  z-index:44;
+  pointer-events:none;
+  margin-left:0px;
+  width:114px;
+  min-width:114px;
+  height:28px;
+  margin-top:-229px;
+  margin-bottom:201px;
+  min-height:28px;
+}
+.Work-name-here-outer{
+  pointer-events:none;
+  z-index:44;
+  position:relative;
+  display:flex;
+}
+.About-me-1{
+  position:relative;
+  z-index:45;
+  pointer-events:none;
+  margin-left:0px;
+  width:114px;
+  min-width:114px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:28px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  color:rgba(8, 8, 8, 1);
+  font-style:normal;
+  font-family:Raleway;
+  font-weight:800;
+  font-size:24px;
+  line-height:29px;
+}
+.About-me-1-outer{
+  pointer-events:none;
+  z-index:45;
+  position:relative;
+  display:flex;
+}
+.image-2{
+  position:relative;
+  z-index:49;
+  pointer-events:none;
+  margin-left:503px;
+  width:480px;
+  min-width:480px;
+  height:480px;
+  margin-top:-578px;
+  margin-bottom:98px;
+  min-height:480px;
+  background-image:url(assets/images/image_2.png);
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  filter:drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.image-2-outer{
+  pointer-events:none;
+  z-index:49;
+  position:relative;
+  display:flex;
+}
+.Intro-Text-1{
+  position:relative;
+  z-index:50;
+  pointer-events:none;
+  margin-left:-13px;
+  width:421px;
+  min-width:421px;
+  height:456px;
+  margin-top:-529px;
+  margin-bottom:73px;
+  min-height:456px;
+}
+.Intro-Text-1-outer{
+  pointer-events:none;
+  z-index:50;
+  position:relative;
+  display:flex;
+}
+.I-am-currently-a-jun{
+  position:relative;
+  z-index:51;
+  pointer-events:none;
+  margin-left:0px;
+  width:421px;
+  min-width:421px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:456px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(156, 156, 156, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:400;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:24px;
+}
+.I-am-currently-a-jun-outer{
+  pointer-events:none;
+  z-index:51;
+  position:relative;
+  display:flex;
+}
+.Testimonials-1{
+  position:relative;
+  z-index:25;
+  pointer-events:none;
+  margin-left:0px;
+  width:1280px;
+  min-width:1280px;
+  height:734px;
+  margin-top:-1725px;
+  margin-bottom:991px;
+  min-height:734px;
+}
+.Testimonials-1-outer{
+  pointer-events:none;
+  z-index:25;
+  position:relative;
+  display:flex;
+}
+.Rectangle-9{
+  position:relative;
+  z-index:26;
+  pointer-events:none;
+  margin-left:0px;
+  width:1280px;
+  min-width:1280px;
+  height:966px;
+  margin-top:0px;
+  margin-bottom:-232px;
+  min-height:966px;
+  content:url(assets/images/Rectangle_9.png);
+}
+.Rectangle-9-outer{
+  pointer-events:none;
+  z-index:26;
+  position:relative;
+  display:flex;
+}
+.Testimonial-heading{
+  position:relative;
+  z-index:27;
+  pointer-events:none;
+  margin-left:0px;
+  width:168px;
+  height:40px;
+  margin-top:-654px;
+  margin-bottom:614px;
+  min-height:40px;
+}
+.Testimonial-heading-outer{
+  pointer-events:none;
+  z-index:27;
+  justify-content:center;
+  position:relative;
+  display:flex;
+}
+.Education-1{
+  position:relative;
+  z-index:28;
+  pointer-events:none;
+  margin-left:0px;
+  width:168px;
+  min-width:168px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:40px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Raleway;
+  font-weight:800;
+  font-size:34px;
+  line-height:40px;
+}
+.Education-1-outer{
+  pointer-events:none;
+  z-index:28;
+  position:relative;
+  display:flex;
+}
+.Testimonial-1{
+  position:relative;
+  z-index:29;
+  pointer-events:none;
+  margin-left:195px;
+  width:951px;
+  min-width:951px;
+  height:574px;
+  margin-top:-566px;
+  margin-bottom:-8px;
+  min-height:574px;
+}
+.Testimonial-1-outer{
+  pointer-events:none;
+  z-index:29;
+  position:relative;
+  display:flex;
+}
+.Rectangle-12-1{
+  position:relative;
+  z-index:30;
+  pointer-events:none;
+  margin-left:1px;
+  width:960px;
+  min-width:960px;
+  height:555px;
+  margin-top:1px;
+  margin-bottom:18px;
+  min-height:555px;
+  content:url(assets/images/Rectangle_12_1.png);
+}
+.Rectangle-12-1-outer{
+  pointer-events:none;
+  z-index:30;
+  position:relative;
+  display:flex;
+}
+.Client-name-1-1{
+  position:relative;
+  z-index:32;
+  pointer-events:none;
+  margin-left:31px;
+  width:183px;
+  min-width:183px;
+  height:21px;
+  margin-top:-549px;
+  margin-bottom:528px;
+  min-height:21px;
+}
+.Client-name-1-1-outer{
+  pointer-events:none;
+  z-index:32;
+  position:relative;
+  display:flex;
+}
+.Lowell-High-School-1{
+  position:relative;
+  z-index:33;
+  pointer-events:none;
+  margin-left:0px;
+  width:167px;
+  min-width:167px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:21px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Raleway;
+  font-weight:700;
+  font-size:18px;
+  line-height:21px;
+}
+.Lowell-High-School-1-outer{
+  pointer-events:none;
+  z-index:33;
+  position:relative;
+  display:flex;
+}
+.Arrow-1-1{
+  position:relative;
+  z-index:34;
+  pointer-events:none;
+  margin-left:180px;
+  width:12px;
+  min-width:12px;
+  height:8px;
+  margin-top:-8px;
+  margin-bottom:0px;
+  min-height:8px;
+  content:url(assets/images/Arrow_1_1.png);
+}
+.Arrow-1-1-outer{
+  pointer-events:none;
+  z-index:34;
+  position:relative;
+  display:flex;
+}
+.Grade--4-57-GPA-Acti{
+  position:relative;
+  z-index:31;
+  pointer-events:none;
+  margin-left:31px;
+  width:908px;
+  min-width:908px;
+  margin-top:-517px;
+  margin-bottom:37px;
+  min-height:480px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(156, 156, 156, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:400;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:24px;
+}
+.Grade--4-57-GPA-Acti-outer{
+  pointer-events:none;
+  z-index:31;
+  position:relative;
+  display:flex;
+}
+.Testimonial-2{
+  position:relative;
+  z-index:35;
+  pointer-events:none;
+  margin-left:195px;
+  width:951px;
+  min-width:951px;
+  height:468px;
+  margin-top:-987px;
+  margin-bottom:519px;
+  min-height:468px;
+}
+.Testimonial-2-outer{
+  pointer-events:none;
+  z-index:35;
+  position:relative;
+  display:flex;
+}
+.Rectangle-12{
+  position:relative;
+  z-index:36;
+  pointer-events:none;
+  margin-left:1px;
+  width:960px;
+  min-width:960px;
+  height:169px;
+  margin-top:1px;
+  margin-bottom:298px;
+  min-height:169px;
+  content:url(assets/images/Rectangle_12.png);
+}
+.Rectangle-12-outer{
+  pointer-events:none;
+  z-index:36;
+  position:relative;
+  display:flex;
+}
+.Client-name-1{
+  position:relative;
+  z-index:38;
+  pointer-events:none;
+  margin-left:31px;
+  width:183px;
+  min-width:183px;
+  height:21px;
+  margin-top:-443px;
+  margin-bottom:422px;
+  min-height:21px;
+}
+.Client-name-1-outer{
+  pointer-events:none;
+  z-index:38;
+  position:relative;
+  display:flex;
+}
+.Lowell-High-School{
+  position:relative;
+  z-index:39;
+  pointer-events:none;
+  margin-left:0px;
+  width:167px;
+  min-width:167px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:21px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Raleway;
+  font-weight:700;
+  font-size:18px;
+  line-height:21px;
+}
+.Lowell-High-School-outer{
+  pointer-events:none;
+  z-index:39;
+  position:relative;
+  display:flex;
+}
+.Arrow-1{
+  position:relative;
+  z-index:40;
+  pointer-events:none;
+  margin-left:180px;
+  width:12px;
+  min-width:12px;
+  height:8px;
+  margin-top:-8px;
+  margin-bottom:0px;
+  min-height:8px;
+  content:url(assets/images/Arrow_1.png);
+}
+.Arrow-1-outer{
+  pointer-events:none;
+  z-index:40;
+  position:relative;
+  display:flex;
+}
+.Grade--4-0-GPA-Takin{
+  position:relative;
+  z-index:37;
+  pointer-events:none;
+  margin-left:31px;
+  width:908px;
+  min-width:908px;
+  margin-top:-411px;
+  margin-bottom:363px;
+  min-height:48px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(156, 156, 156, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:400;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:24px;
+}
+.Grade--4-0-GPA-Takin-outer{
+  pointer-events:none;
+  z-index:37;
+  position:relative;
+  display:flex;
+}
+.Get-in-touch{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:0px;
+  width:1280px;
+  min-width:1280px;
+  height:1184px;
+  margin-top:-748px;
+  margin-bottom:-436px;
+  min-height:1184px;
+}
+.Get-in-touch-outer{
+  pointer-events:none;
+  z-index:3;
+  position:relative;
+  display:flex;
+}
+.Rectangle-10{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:0px;
+  width:1280px;
+  min-width:1280px;
+  height:672px;
+  margin-top:0px;
+  margin-bottom:512px;
+  min-height:672px;
+  background-color:rgba(8, 8, 8, 1);
+}
+.Rectangle-10-outer{
+  pointer-events:none;
+  z-index:4;
+  position:relative;
+  display:flex;
+}
+.Testimonial-heading-1{
+  position:relative;
+  z-index:9;
+  pointer-events:none;
+  margin-left:0px;
+  width:206px;
+  height:40px;
+  margin-top:-1062px;
+  margin-bottom:1022px;
+  min-height:40px;
+}
+.Testimonial-heading-1-outer{
+  pointer-events:none;
+  z-index:9;
+  justify-content:center;
+  position:relative;
+  display:flex;
+}
+.Get-In-Touch-1{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:0px;
+  width:206px;
+  min-width:206px;
+  margin-top:0px;
+  margin-bottom:0px;
+  min-height:40px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Raleway;
+  font-weight:800;
+  font-size:34px;
+  line-height:40px;
+}
+.Get-In-Touch-1-outer{
+  pointer-events:none;
+  z-index:10;
+  position:relative;
+  display:flex;
+}
+.Testimoanial-subtext{
+  position:relative;
+  z-index:8;
+  pointer-events:none;
+  margin-left:0px;
+  width:570px;
+  height:48px;
+  margin-top:-1053px;
+  margin-bottom:1005px;
+  min-height:48px;
+}
+.Testimoanial-subtext-outer{
+  pointer-events:none;
+  z-index:8;
+  justify-content:center;
+  position:relative;
+  display:flex;
+}
+.Email{
+  position:relative;
+  z-index:19;
+  pointer-events:none;
+  margin-left:465px;
+  width:350px;
+  min-width:350px;
+  height:61px;
+  margin-top:-1008px;
+  margin-bottom:947px;
+  min-height:61px;
+}
+.Email-outer{
+  pointer-events:none;
+  z-index:19;
+  position:relative;
+  display:flex;
+}
+.Email-1{
+  position:relative;
+  z-index:20;
+  pointer-events:none;
+  margin-left:0px;
+  width:36px;
+  min-width:36px;
+  margin-top:0px;
+  margin-bottom:45px;
+  min-height:16px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:600;
+  font-size:12px;
+  line-height:15px;
+}
+.Email-1-outer{
+  pointer-events:none;
+  z-index:20;
+  position:relative;
+  display:flex;
+}
+.Enter-email-placehol{
+  position:relative;
+  z-index:21;
+  pointer-events:none;
+  margin-left:0px;
+  width:350px;
+  min-width:350px;
+  height:40px;
+  margin-top:-40px;
+  margin-bottom:0px;
+  min-height:40px;
+  background-color:rgba(248, 248, 248, 1);
+  border:1px solid rgba(216, 216, 216, 1);
+  box-sizing:border-box;
+  border-radius:4px;
+}
+.Enter-email-placehol-outer{
+  pointer-events:none;
+  z-index:21;
+  position:relative;
+  display:flex;
+}
+.Placeholder{
+  position:relative;
+  z-index:22;
+  pointer-events:none;
+  margin-left:1px;
+  width:326px;
+  margin-top:1px;
+  margin-bottom:0px;
+  min-height:36px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(117, 117, 117, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:400;
+  font-size:12px;
+  line-height:21px;
+}
+.Placeholder-outer{
+  pointer-events:none;
+  z-index:22;
+  justify-content:center;
+  position:absolute;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Password-1{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:465px;
+  width:350px;
+  min-width:350px;
+  height:61px;
+  margin-top:-927px;
+  margin-bottom:866px;
+  min-height:61px;
+}
+.Password-1-outer{
+  pointer-events:none;
+  z-index:11;
+  position:relative;
+  display:flex;
+}
+.Mobile{
+  position:relative;
+  z-index:12;
+  pointer-events:none;
+  margin-left:0px;
+  width:44px;
+  min-width:44px;
+  margin-top:0px;
+  margin-bottom:45px;
+  min-height:16px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:600;
+  font-size:12px;
+  line-height:15px;
+}
+.Mobile-outer{
+  pointer-events:none;
+  z-index:12;
+  position:relative;
+  display:flex;
+}
+.Password-placeholder-1{
+  position:relative;
+  z-index:13;
+  pointer-events:none;
+  margin-left:0px;
+  width:350px;
+  min-width:350px;
+  height:40px;
+  margin-top:-40px;
+  margin-bottom:0px;
+  min-height:40px;
+  background-color:rgba(248, 248, 248, 1);
+  border:1px solid rgba(216, 216, 216, 1);
+  box-sizing:border-box;
+  border-radius:4px;
+}
+.Password-placeholder-1-outer{
+  pointer-events:none;
+  z-index:13;
+  position:relative;
+  display:flex;
+}
+.Placeholder-2{
+  position:relative;
+  z-index:14;
+  pointer-events:none;
+  margin-left:1px;
+  width:326px;
+  margin-top:1px;
+  margin-bottom:0px;
+  min-height:36px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(117, 117, 117, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:400;
+  font-size:12px;
+  line-height:21px;
+}
+.Placeholder-2-outer{
+  pointer-events:none;
+  z-index:14;
+  justify-content:center;
+  position:absolute;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Password{
+  position:relative;
+  z-index:15;
+  pointer-events:none;
+  margin-left:465px;
+  width:350px;
+  min-width:350px;
+  height:141px;
+  margin-top:-846px;
+  margin-bottom:705px;
+  min-height:141px;
+}
+.Password-outer{
+  pointer-events:none;
+  z-index:15;
+  position:relative;
+  display:flex;
+}
+.Message{
+  position:relative;
+  z-index:16;
+  pointer-events:none;
+  margin-left:0px;
+  width:51px;
+  min-width:51px;
+  margin-top:0px;
+  margin-bottom:125px;
+  min-height:16px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:600;
+  font-size:12px;
+  line-height:15px;
+}
+.Message-outer{
+  pointer-events:none;
+  z-index:16;
+  position:relative;
+  display:flex;
+}
+.Password-placeholder{
+  position:relative;
+  z-index:17;
+  pointer-events:none;
+  margin-left:0px;
+  width:350px;
+  min-width:350px;
+  height:120px;
+  margin-top:-120px;
+  margin-bottom:0px;
+  min-height:120px;
+  background-color:rgba(248, 248, 248, 1);
+  border:1px solid rgba(216, 216, 216, 1);
+  box-sizing:border-box;
+  border-radius:4px;
+}
+.Password-placeholder-outer{
+  pointer-events:none;
+  z-index:17;
+  position:relative;
+  display:flex;
+}
+.Placeholder-1{
+  position:relative;
+  z-index:18;
+  pointer-events:none;
+  margin-left:1px;
+  width:326px;
+  margin-top:-1px;
+  margin-bottom:82px;
+  min-height:36px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  color:rgba(117, 117, 117, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:400;
+  font-size:12px;
+  line-height:21px;
+}
+.Placeholder-1-outer{
+  pointer-events:none;
+  z-index:18;
+  justify-content:center;
+  position:absolute;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Call-to-action-1{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:0px;
+  width:350px;
+  height:50px;
+  margin-top:-685px;
+  margin-bottom:635px;
+  min-height:50px;
+  background-color:rgba(63, 142, 0, 1);
+  filter:drop-shadow(0px 8px 30px rgba(63, 142, 0, 0.3));
+  border:1px solid rgba(98, 186, 27, 1);
+  box-sizing:border-box;
+  border-radius:4px;
+}
+.Call-to-action-1-outer{
+  pointer-events:none;
+  z-index:5;
+  justify-content:center;
+  position:relative;
+  display:flex;
+}
+.Submit{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:141px;
+  width:51px;
+  min-width:51px;
+  margin-top:15px;
+  margin-bottom:14px;
+  min-height:18px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:700;
+  font-size:14px;
+  line-height:18px;
+}
+.Submit-outer{
+  pointer-events:none;
+  z-index:6;
+  position:relative;
+  display:flex;
+}
+.Vector-1{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:58.21325648414986%;
+  width:1.697406340057637%;
+  height:20%;
+  margin-top:5.475504322766571%;
+  content:url(assets/images/Vector_1.png);
+}
+.Vector-1-outer{
+  pointer-events:none;
+  z-index:7;
+  position:absolute;
+  display:flex;
+  width:100%;
+  height:100%;
+  left:0;
+  top:0;
+}
+.Rectangle-11{
+  position:relative;
+  z-index:23;
+  pointer-events:none;
+  margin-left:24px;
+  width:1280px;
+  min-width:1280px;
+  height:70px;
+  margin-top:-506px;
+  margin-bottom:436px;
+  min-height:70px;
+  background-color:rgba(27, 27, 27, 1);
+}
+.Rectangle-11-outer{
+  pointer-events:none;
+  z-index:23;
+  position:relative;
+  display:flex;
+}
+.Made-with---{
+  position:relative;
+  z-index:24;
+  pointer-events:none;
+  margin-left:582px;
+  width:104px;
+  min-width:100px;
+  margin-top:-483px;
+  margin-bottom:465px;
+  min-height:18px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-end;
+  color:rgba(156, 156, 156, 1);
+  font-style:normal;
+  font-family:IBM Plex Mono;
+  font-weight:400;
+  font-size:14px;
+  letter-spacing:0.14px;
+  line-height:18px;
+}
+.Made-with----outer{
+  pointer-events:none;
+  z-index:24;
+  position:relative;
+  display:flex;
+}
+.Home{
+  position:relative;
+  z-index:76;
+  pointer-events:none;
+  margin-left:582px;
+  width:100px;
+  min-width:100px;
+  height:18px;
+  margin-top:454px;
+  margin-bottom:-472px;
+  min-height:18px;
+}
+.Home-outer{
+  pointer-events:none;
+  z-index:76;
+  position:relative;
+  display:flex;
+}
